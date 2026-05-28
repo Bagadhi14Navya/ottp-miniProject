@@ -19,7 +19,7 @@ while True:
     else:
         print("incorrect otp")
 
-        return self.total() / 3
+      
 
 
 
